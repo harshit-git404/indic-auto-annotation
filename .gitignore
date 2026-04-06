@@ -1,0 +1,24 @@
+# python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# node
+node_modules/
+dist/
+build/
+
+# jupyter
+.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# models
+*.pt
+*.pth
+
+# logs
+logs/
